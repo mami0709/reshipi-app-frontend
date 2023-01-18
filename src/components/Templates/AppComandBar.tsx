@@ -22,7 +22,7 @@ import { FiLogIn } from "react-icons/fi";
 // ・適時コンポーネントを分離
 
 
-//testtest
+
 export default function AppComandBar() {
   return (
     <Box sx={{ display: "flex" }}>
